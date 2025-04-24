@@ -55,6 +55,8 @@ Refer [cosine similarity](https://naomy-gomes.medium.com/the-cosine-similarity-a
    - Though content-based systems are hard to benchmark like classification models, we estimate performance by manually validating recommendations.
    - **Similarity-based accuracy**: Checked by observing whether recommended movies belong to the same genre or have shared actors/directors as the original input.
    - Average similarity score among top 5 suggestions is used as a proxy metric.
+    
+Visit [Wiki](Wiki) for more
   
 For example:
   
