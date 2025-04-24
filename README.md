@@ -56,7 +56,7 @@ Refer [cosine similarity](https://naomy-gomes.medium.com/the-cosine-similarity-a
    - **Similarity-based accuracy**: Checked by observing whether recommended movies belong to the same genre or have shared actors/directors as the original input.
    - Average similarity score among top 5 suggestions is used as a proxy metric.
     
-Visit [Wiki](Wiki) for more
+Visit [Wiki](https://github.com/kalpeshgajare/movie-recommendation-system/wiki) for more
   
 For example:
   
