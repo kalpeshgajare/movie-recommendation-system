@@ -1,4 +1,4 @@
-# **Movie Recommendation System**
+# **KNN based Movie Recommendation System**
 
 This project implements a **Movie Recommendation System** using **Collaborative Filtering** with **Cosine Similarity**. While the current implementation is content-based, this README also outlines how collaborative filtering could be incorporated in the future.
 
@@ -10,6 +10,12 @@ A **Recommendation System** suggests items (like movies) to users based on vario
    - Often implemented using user-item matrices and similarity scores (like cosine similarity).
 
 ## Algorithms Used
+
+### ✔️KNN algorihtm
+- Uses user-item rating matrix to:
+- Find nearest users or items
+- Recommend based on rating patterns from similar users
+- Employs K-Nearest Neighbors algorithm for similarity lookup
 
 ### ✔️ Cosine Similarity
 
