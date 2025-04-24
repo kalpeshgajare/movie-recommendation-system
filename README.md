@@ -49,12 +49,14 @@ Refer [cosine similarity](https://naomy-gomes.medium.com/the-cosine-similarity-a
    - Though content-based systems are hard to benchmark like classification models, we estimate performance by manually validating recommendations.
    - **Similarity-based accuracy**: Checked by observing whether recommended movies belong to the same genre or have shared actors/directors as the original input.
    - Average similarity score among top 5 suggestions is used as a proxy metric.
+  
 For example:
-`Input: Inception  
+  
+*Input: Inception  
 Recommended: Interstellar, The Prestige, The Dark Knight, Memento, The Matrix  
 Cosine Similarity Scores: [0.385, 0.362, 0.341, 0.329, 0.298]  
 Average Score: ~0.343  
-Accuracy: 77.78%`  
+Accuracy: 77.78%*  
 
 ## Tech Stack
 
